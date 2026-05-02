@@ -53,3 +53,7 @@ def buscar_anime():
 # Correção da condicional main (sem espaços extras)
 if __name__ == "__main__":
     buscar_anime()
+
+# Tenha instalado o python e o GoogleTranslator para poder rodar no seu terminal 
+# execute no terminal o seguinte comando após instalar os dois softwares
+# comando: python3 buscaranimes.py (você deve estar no diretório aonde foi baixado o arquivo e dentro da pasta que você criou para executar esse comando)
